@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Iot Barcode</string>
+    <string name="scan">바코드 스캔</string>
+    <string name="socket_test">전송</string>
+</resources>
